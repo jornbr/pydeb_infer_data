@@ -1,0 +1,18 @@
+p_Am	log10 J/d.cm^2
+E_Hx	log10 J
+kap_R	logit -
+F_m	log10 l/d.cm^2
+E_Hb	log10 J
+p_M	log10 J/d.cm^3
+E_Hj	log10 J
+kap_P	logit -
+v	log10 cm/d
+kap_X	logit -
+kap	logit -
+t_0	log10 d
+s_G	-
+k_J	log10 1/d
+E_G	log10 J/cm^3
+T_A	K
+h_a	log10 1/d^2
+E_Hp	log10 J
